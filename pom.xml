@@ -5,10 +5,10 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example.jpa</groupId>
-	<artifactId>JPA_05_JPQL</artifactId>
+	<artifactId>JPA_11_JPQL</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>JPA_05_JPQL</name>
+	<name>JPA_11_JPQL</name>
 
 	<properties>
 		<java.version>1.8</java.version>
