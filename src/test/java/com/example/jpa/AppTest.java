@@ -1,4 +1,4 @@
-package com.example._JPQL;
+package com.example.jpa;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
